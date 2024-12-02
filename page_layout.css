@@ -1,0 +1,28 @@
+.bg_img{
+    background-image: url('./Images/img23.png'); 
+    background-size: cover; 
+    background-position: center; 
+    height:500px;
+}
+
+.custom-bg{
+    background-color: #cddeed; 
+    border: 1px solid #d1e7dd; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.footer .container .custom-bg{
+    background-color: aquamarine;
+}
+
+.navbar .nav-link  {
+    color:#496985 
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(11, 16, 20, 0.5); 
+    border-radius: 50%;
+}
+
+
